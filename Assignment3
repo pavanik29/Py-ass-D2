@@ -1,0 +1,8 @@
+s1 = 50
+s2 = 60
+s3 = 70
+
+if s1 >= 40 and s2 >= 40 and s3 >= 40:
+    print("Pass")
+else:
+    print("Fail")
